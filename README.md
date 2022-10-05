@@ -8,7 +8,7 @@
 
 ```mermaid
 gantt
-    title 甘特圖
+    title 甘特圖(依任務分類)
     section 研擬計畫
     研擬計畫:a1, 2022-10-04, 2d
     
@@ -67,7 +67,7 @@ gantt
 
 ```mermaid
 gantt
-    title 甘特圖
+    title 甘特圖(依類別分類)
     section 研擬計畫
     研擬計畫:a1, 2022-10-04, 2d
     
