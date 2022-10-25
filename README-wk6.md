@@ -11,6 +11,7 @@
         3.維護性。  
 
 + ### 功能分解圖
+   ![功能分解圖](https://user-images.githubusercontent.com/85491747/197707826-85d5473b-6a10-4fd9-a012-0efbcdb6bdec.png)
 
 + ### 需求分析
    (1) 管理者可以藉由載入貨品清單資料來產生報表。  
