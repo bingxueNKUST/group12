@@ -13,6 +13,10 @@
 + ### 功能分解圖
 
 + ### 需求分析
+   (1) 管理者可以藉由載入貨品清單資料來產生報表。  
+   (2) 管理者可以藉由載入以及儲存貨品資料。  
+   (3) 任何銷售必須更新存貨。  
+   (4) 假如顧客使用信用卡，系統必須查核信用卡資料。  
 
 + ### 使用案例圖
 
@@ -50,4 +54,4 @@
 
 
 + ### 動態模擬畫面
-   [Figma](https://www.figma.com/file/m8Knqz2qGZNKk4ba8Pc99E/Demo_01?node-id=0%3A1)
+   [Figma](https://www.figma.com/proto/m8Knqz2qGZNKk4ba8Pc99E/Demo_01?node-id=18%3A7&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=18%3A7)
